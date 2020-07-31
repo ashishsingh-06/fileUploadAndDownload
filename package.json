@@ -64,7 +64,7 @@
     "depd": "^1.1.2",
     "destroy": "^1.0.4",
     "dicer": "^0.2.5",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.1.1",
     "duplexer3": "^0.1.4",
     "ee-first": "^1.1.1",
     "encodeurl": "^1.0.2",
