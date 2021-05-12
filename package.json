@@ -151,7 +151,7 @@
     "nan": "^2.14.0",
     "nanomatch": "^1.2.13",
     "negotiator": "^0.6.2",
-    "nodemailer": "^6.3.0",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.19.2",
     "nopt": "^1.0.10",
     "normalize-path": "^3.0.0",
