@@ -201,7 +201,7 @@
     "semver-diff": "^2.1.0",
     "send": "^0.17.1",
     "serve-static": "^1.14.1",
-    "set-value": "^2.0.1",
+    "set-value": "^4.0.1",
     "setprototypeof": "^1.1.1",
     "shebang-command": "^1.2.0",
     "shebang-regex": "^1.0.0",
