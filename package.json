@@ -74,7 +74,7 @@
     "etag": "^1.8.1",
     "execa": "^0.7.0",
     "expand-brackets": "^2.1.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "extend-shallow": "^3.0.2",
     "extglob": "^2.0.4",
     "fill-range": "^4.0.0",
